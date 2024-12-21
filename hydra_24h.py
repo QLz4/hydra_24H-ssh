@@ -162,4 +162,5 @@ btn_start.pack()
 root.mainloop()
 
 
-# QLz4 qoingling 
+# https://github.com/QLz4
+# 清零 制作
