@@ -75,3 +75,6 @@ btn_start.pack()
 
 # 运行主循环
 root.mainloop()
+
+# https://github.com/QLz4
+# 清零 制作
